@@ -1,7 +1,5 @@
 # ADHD Assistant
  
-Danke für den Hinweis! Ich werde die README-Datei anpassen und die SQLite-Referenzen entfernen. Hier ist die aktualisierte Version:
-
 Wetter-, To-Do- und Geburtstags-Manager mit Signal-Benachrichtigungen
 Dieses Projekt ist eine einfache Desktop-Anwendung, die Wetterberichte abruft, eine To-Do-Liste verwaltet und Geburtstage trackt. Zusätzlich kann das Programm über den Signal Messenger Benachrichtigungen zu Wetter und Geburtstagen senden. Die Daten, wie z.B. Geburtstage und Aufgaben, werden lokal in Textdateien gespeichert.
 
@@ -16,4 +14,4 @@ Python 3.x
 Signal-CLI: Ein Tool zur Integration von Signal in Skripte.
 Tkinter: Wird für die GUI verwendet (standardmäßig in Python enthalten).
 Requests: Für die API-Abfrage von OpenWeatherMap.
-Schedule: Für das tägliche Ausführen von Aufgabe
+Schedule: Für das tägliche Ausführen von Aufgaben.
