@@ -16,7 +16,7 @@ Tkinter: Wird für die GUI verwendet (standardmäßig in Python enthalten).
 Requests: Für die API-Abfrage von OpenWeatherMap.
 Schedule: Für das tägliche Ausführen von Aufgaben.
 
-Python-Bibliotheken installieren
+Python-Bibliotheken installieren:
 
 
 ````Bash 
